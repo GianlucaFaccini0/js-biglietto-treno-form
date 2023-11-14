@@ -1,0 +1,12 @@
+* {
+    margin: auto 0;
+    padding: 0;
+}
+
+.bg-bd {
+    background-color: tomato;
+}
+
+.bg-wh {
+    background-color: white;
+}
